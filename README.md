@@ -23,25 +23,18 @@ The main directories are:
 * **`📁 LeetCode/`**: Contains all solutions for problems from LeetCode.
 * **`📁 HackerRank/`**: Contains all solutions for problems from HackerRank.
 
-Within each of these directories, the solutions are further categorized by difficulty:
-
-* **`📁 Easy/`**
-* **`📁 Medium/`**
-* **`📁 Hard/`**
-
----
-
 ### File Naming Convention
 
-Each solution file is named using a consistent format to ensure clarity and chronological order:
+Instead of using sub-folders for difficulty, each solution file is named using a consistent format that clearly states its difficulty, order, and name. This makes browsing and sorting simple and efficient.
 
-`[Problem_Number]_[Problem_Name].sql`
+The format is: **`Difficulty_##_Problem_Name.sql`**
 
-For example, a solution for the first challenge in the "Easy" LeetCode section would be named:
+For example:
+* `Easy_01_Second_Highest_Salary.sql`
+* `Medium_01_Consecutive_Numbers.sql`
+* `Hard_01_Trips_and_Users.sql`
 
-**`01_Second_Highest_Salary.sql`**
-
-This structure helps in quickly identifying a problem and its solution.
+This structure helps in quickly identifying a problem's difficulty and solution at a glance.
 
 ---
 
