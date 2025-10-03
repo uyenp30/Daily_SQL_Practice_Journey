@@ -27,12 +27,12 @@ The main directories are:
 
 Instead of using sub-folders for difficulty, each solution file is named using a consistent format that clearly states its difficulty, order, and name. This makes browsing and sorting simple and efficient.
 
-The format is: **`Difficulty_##_Problem_Name.sql`**
+The format is: **`Difficulty_##_Problem_Name`**
 
 For example:
-* `Easy_01_Second_Highest_Salary.sql`
-* `Medium_01_Consecutive_Numbers.sql`
-* `Hard_01_Trips_and_Users.sql`
+* `Easy_01_Second_Highest_Salary`
+* `Medium_01_Consecutive_Numbers`
+* `Hard_01_Trips_and_Users`
 
 This structure helps in quickly identifying a problem's difficulty and solution at a glance.
 
