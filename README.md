@@ -1,11 +1,11 @@
-# 🚀 Daily_SQL_Practice_Journey
-A collection of my daily SQL practice problems from HackerRank and Leetcode
+# 🚀 SQL_Practice_Journey
+A collection of my SQL practice problems from HackerRank and Leetcode
 
 ---
 
-Welcome to my repository dedicated to honing my SQL skills through daily practice. This space serves as a living document of my progress, a library of solved challenges, and a showcase of my problem-solving abilities in SQL.
+Welcome to my repository dedicated to honing my SQL skills through regular practice. This space serves as a living document of my progress, a library of solved challenges, and a showcase of my problem-solving abilities in SQL.
 
-Every day, I tackle new challenges from platforms like LeetCode and HackerRank to continuously improve my understanding of database querying, from basic syntax to advanced topics like window functions, CTEs, and complex joins.
+I tackle new challenges from platforms like LeetCode and HackerRank to continuously improve my understanding of database querying, from basic syntax to advanced topics like window functions, CTEs, and complex joins.
 
 Feel free to check out my profiles on those platforms:
 
